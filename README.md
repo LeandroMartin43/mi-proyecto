@@ -1,1 +1,1 @@
-# En este espacio voy a compartir toda mi trayectoria en mi experiencia de aprendizaje en Python
+# En este espacio voy a compartir toda la trayectoria en mi experiencia de aprendizaje en Python
